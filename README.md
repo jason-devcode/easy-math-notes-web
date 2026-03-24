@@ -4,9 +4,12 @@
 
 Sitio: [Easy Math Notes Web](https://jason-devcode.github.io/easy-math-notes-web/)
 
+## Descripción
+
 Sitio web que permite reconocer y convertir símbolos matemáticos manuscritos en LaTeX, usando un modelo de clasificación entrenado con el dataset HASYv2 y ejecutado íntegramente en el navegador con ONNX Runtime Web.
 
 ## ¿Con qué propósito se hizo?
+
 El propósito de Easy Math Notes Web es resolver el problema de que, después de tomar apuntes matemáticos a mano, se pierde mucho tiempo transcribiendo y formateando todo a LaTeX para que quede formal.
 La idea es permitir escribir las fórmulas directamente a mano en un canvas y que se conviertan automáticamente en tiempo real a código LaTeX de forma tan ligera que se ejecute dentro del navegador.
 
